@@ -7,11 +7,9 @@ Websites are typically used to inform the viewer and are usually meant to be bro
 
 ### VS Code & Extensions
 
-VS code is used to edit code from websites like GitHub, especially in large groups. 
+Visual Studio Code is used because of its comprehensive code editor and debugger. It is also used in various languages. The first extension we will be using in class is Prettier, which formats your code for you. The second extension we will be using is called Live Server which launches a local development server. The third extension we will be using is called Thunder Client helps the user control their API. The fourth extension we will be using is called Markdown which gives us a better view of what our website will look like. 
 ### Version Control, Git, & GitHub
-
-
-
+Git is downloaded directly to the developer's computer, and can be called in Visual Studio Code. 
 ### Markdown & Documentation
 
 Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
