@@ -2,7 +2,8 @@
 
 ### Websites vs Web Applications
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+Websites are typically used to inform the viewer and are usually meant to be browsed. They are usually simple to understand and it usually informs the viwer about current events. The user is also able to see the HTMLL, Java, and CSS that makes up the website. Media applications usually are used to post other media, like a social website like Facebook or Instagram.
+
 
 ### VS Code & Extensions
 
