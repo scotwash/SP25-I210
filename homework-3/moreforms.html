@@ -18,6 +18,70 @@
         </ul>
     </nav>
 
-    <h1>More</h1>
+    <h1>More Forms</h1>
+    <form action="moreforms.html" method="get">
+        <div>
+            <input type="checkbox" 
+            name="soulContract" 
+            id="soulContract"
+            checked
+            value="Signed"/>
+            <label for="soulContract">Sign away your soul</label>
+        </div>
+
+        <div>
+            <input type="radio" 
+            name="lengthContract" 
+            id="lengthContract"
+            value="1"/>
+            <label for="lengthContract">1 year</label>
+        </div>
+
+        <div>
+            <input type="radio" 
+            name="lengthContract" 
+            id="lengthContract2"
+            value="50"/>
+            <label for="lengthContract2">2 year</label>
+        </div>
+
+        <div>
+            <input type="radio" name="lengthContract" id="lengthContract50">
+            <label for="lengthContract50">50 years</label>
+        </div>
+    
+            <fieldset>
+                <legend>Personal Info</legend>
+
+
+                <div>
+                    <label for="fullname">Fullname:</label>
+                    <input 
+                     type="text"
+                     name="fullname" 
+                     id="fullname"
+                     required
+                     list="commonNames"
+                     />
+        
+                    <datalist id="commonNames">
+                        <option value="A">A</option>
+                        <option value="B">B</option>
+                        <option value="C">C</option>
+                        <option value="D">D</option>
+                    </datalist>
+        
+                    
+               </div>
+               <select id="tile">
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+               </select>
+            </fieldset>
+      
+    </form>
+
 </body>
 </html>
