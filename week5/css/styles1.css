@@ -1,0 +1,29 @@
+#box-model {
+    background-color: lightslategray;
+    padding: 10px;
+    border: 1px solid brown;
+}
+#flex-box {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#flex-box p {
+    width: 200px;
+}
+
+nav ul {
+    height: 30px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
