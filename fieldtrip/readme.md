@@ -14,4 +14,11 @@ If I were to make a website showing this artifact off, I would make a website th
 
 ### Design Choices
 
-For this website I want to use a simple but colorful color palette, so I used colors that are used in the sculpture and then other colors that complemented it. 
+For this website I want to use a simple but colorful color palette, so I used colors that are used in the sculpture and then other colors that complemented it; the colors I chose were #D4F4F4, #49494A, #F57567, #FFFFF6, and #FFC8BC. 
+
+I used these websites as a possible styling reference, 
+https://curious.co/
+
+https://www.heyfriends.studio/
+
+I liked curious.co because I really liked the custom cursor and I wanted to integrate that with the paintbrush feature, and I liked the second website because I liked the font choice but I also really liked the simplistic animated transitions. 
